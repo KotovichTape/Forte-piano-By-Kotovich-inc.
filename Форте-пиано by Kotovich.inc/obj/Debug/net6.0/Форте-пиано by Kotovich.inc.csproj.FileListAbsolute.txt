@@ -1,0 +1,15 @@
+C:\Форте-пиано by Kotovich.inc\Форте-пиано by Kotovich.inc\bin\Debug\net6.0\Форте-пиано by Kotovich.inc.exe
+C:\Форте-пиано by Kotovich.inc\Форте-пиано by Kotovich.inc\bin\Debug\net6.0\Форте-пиано by Kotovich.inc.deps.json
+C:\Форте-пиано by Kotovich.inc\Форте-пиано by Kotovich.inc\bin\Debug\net6.0\Форте-пиано by Kotovich.inc.runtimeconfig.json
+C:\Форте-пиано by Kotovich.inc\Форте-пиано by Kotovich.inc\bin\Debug\net6.0\Форте-пиано by Kotovich.inc.dll
+C:\Форте-пиано by Kotovich.inc\Форте-пиано by Kotovich.inc\bin\Debug\net6.0\Форте-пиано by Kotovich.inc.pdb
+C:\Форте-пиано by Kotovich.inc\Форте-пиано by Kotovich.inc\obj\Debug\net6.0\Форте-пиано by Kotovich.inc.csproj.AssemblyReference.cache
+C:\Форте-пиано by Kotovich.inc\Форте-пиано by Kotovich.inc\obj\Debug\net6.0\Форте-пиано by Kotovich.inc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Форте-пиано by Kotovich.inc\Форте-пиано by Kotovich.inc\obj\Debug\net6.0\Форте-пиано by Kotovich.inc.AssemblyInfoInputs.cache
+C:\Форте-пиано by Kotovich.inc\Форте-пиано by Kotovich.inc\obj\Debug\net6.0\Форте-пиано by Kotovich.inc.AssemblyInfo.cs
+C:\Форте-пиано by Kotovich.inc\Форте-пиано by Kotovich.inc\obj\Debug\net6.0\Форте-пиано by Kotovich.inc.csproj.CoreCompileInputs.cache
+C:\Форте-пиано by Kotovich.inc\Форте-пиано by Kotovich.inc\obj\Debug\net6.0\Форте-пиано by Kotovich.inc.dll
+C:\Форте-пиано by Kotovich.inc\Форте-пиано by Kotovich.inc\obj\Debug\net6.0\refint\Форте-пиано by Kotovich.inc.dll
+C:\Форте-пиано by Kotovich.inc\Форте-пиано by Kotovich.inc\obj\Debug\net6.0\Форте-пиано by Kotovich.inc.pdb
+C:\Форте-пиано by Kotovich.inc\Форте-пиано by Kotovich.inc\obj\Debug\net6.0\Форте-пиано by Kotovich.inc.genruntimeconfig.cache
+C:\Форте-пиано by Kotovich.inc\Форте-пиано by Kotovich.inc\obj\Debug\net6.0\ref\Форте-пиано by Kotovich.inc.dll
